@@ -5,8 +5,8 @@
 <a href="https://github.com/hackbybmh/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackbybmh&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's BMH Organization 👋</i></b></h2>
-<b><i>💻 We're Students & part time Programmers</i></b>
+<h2><b><i>Howdy , it's hackbybmh 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Coder</i></b>
 
 <h3><b><i>🤠 About us :</i></b></h3>
 <li> 🐍 <i>Trying to learn CODE</i></li>
