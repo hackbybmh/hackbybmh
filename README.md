@@ -22,7 +22,7 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/hackbybmh/"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://gitlab.com/hackbybmh"><img align="left" title="Gitlab" alt="Gitlab" width="30px" src="https://pics.freeicons.io/uploads/icons/png/15790081261579517844-512.png" /></a>
+<a href="https://gitlab.com/hackbybmh"><img align="left" title="Gitlab" alt="Gitlab" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" /></a>
 <a href="https://bitbucket.org/hackbybmh/"><img align="left" title="Bitbucket" alt="Bitbucket" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" /></a>
 <a href="https://sourceforge.net/u/hackbybmh/profile/"><img align="left" title="Sourceforge" alt="Sourceforge" width="30px" src="https://icons-for-free.com/iconfiles/png/512/sourceforge-1324440234317114110.png" /></a>
 
