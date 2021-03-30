@@ -1,8 +1,8 @@
 <!-- Github README -->
-<p align="center"><a href="https://github.com/BMH-Organization/">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BMH-Organization&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/hackbybmh/">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hackbybmh&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BMH-Organization/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMH-Organization&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/hackbybmh/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackbybmh&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 <h2><b><i>Howdy , it's BMH Organization 👋</i></b></h2>
@@ -15,10 +15,10 @@
 <li> <a href="https://github.com/BMH-Organization/">BMH-Organization</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/BMH-Organization/"><img width=550 src="https://github-profile-trophy.vercel.app/?username=BMH-Organization&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/hackbybmh/"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hackbybmh&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/BMH-Organization/"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=BMH-Organization&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/hackbybmh/"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hackbybmh&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/hackbybmh/"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
